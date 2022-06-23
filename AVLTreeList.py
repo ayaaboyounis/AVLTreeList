@@ -1,8 +1,4 @@
-#ayaaboyounis
-# 322628645
-# aya aboyounis
-# 212133359
-# moataz hamza
+
 import math
 import random
 
